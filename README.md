@@ -2,13 +2,11 @@
 
 An interactive **E-Commerce Sales Dashboard** built in **Microsoft Excel** to analyze sales performance, customer behavior, product trends, and delivery metrics. This project transforms raw sales data into meaningful insights using Excel's powerful data analysis and visualization features.
 
----
 
 ##  Project Overview
 
 The dashboard provides a comprehensive view of e-commerce sales by tracking key business metrics through interactive visualizations. It enables users to analyze revenue, product performance, customer demographics, payment preferences, and delivery efficiency, helping businesses make informed decisions.
 
----
 
 ##  Objectives
 
@@ -21,7 +19,6 @@ The dashboard provides a comprehensive view of e-commerce sales by tracking key 
 - Measure customer satisfaction through ratings.
 - Track delivery performance.
 
----
 
 ## 📂 Dataset Information
 
@@ -41,9 +38,8 @@ The dataset contains transaction-level e-commerce sales data, including:
 | Delivery Time | Number of days taken for delivery |
 | Week Number | Week of the year |
 
----
 
-## 📈 Dashboard Features
+##  Key Features
 
 - 📌 KPI Cards
   - Total Revenue
@@ -69,7 +65,6 @@ The dataset contains transaction-level e-commerce sales data, including:
   - Gender
   - Week
 
----
 
 ## 🛠 Tools & Technologies
 
@@ -79,8 +74,6 @@ The dataset contains transaction-level e-commerce sales data, including:
 - Slicers
 - Excel Formulas
 - Conditional Formatting
-
----
 
 ## 📊 Key Insights
 
@@ -92,27 +85,12 @@ The dataset contains transaction-level e-commerce sales data, including:
 - Track customer satisfaction through ratings.
 - Analyze delivery efficiency and order trends.
 
----
-
----
 
 ##  Dashboard Preview
 
 
 <img width="1336" height="742" alt="image" src="https://github.com/user-attachments/assets/1399fdff-50e5-4837-9c97-c5e37d6850dd" />
 
-
----
-
-## 🚀 How to Use
-
-1. Download or clone this repository.
-2. Open **E-Commerce-Sales-Dashboard.xlsx** in Microsoft Excel.
-3. Enable editing if prompted.
-4. Use the slicers to interact with the dashboard.
-5. Explore the visualizations and insights.
-
----
 
 ## 💼 Business Value
 
@@ -125,15 +103,6 @@ This dashboard helps businesses:
 - Measure delivery performance.
 - Support data-driven decision-making.
 
----
-
-## 🔮 Future Enhancements
-
-- Power BI version of the dashboard.
-- Dynamic monthly trend analysis.
-- Regional sales analysis.
-- Profit and cost analysis.
-- Forecasting using Excel or Power BI.
 
 ---
 
